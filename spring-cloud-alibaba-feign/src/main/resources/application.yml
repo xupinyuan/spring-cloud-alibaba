@@ -1,0 +1,19 @@
+spring:
+  application:
+    name: spring-cloud-alibaba-feign
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848
+feign:
+  sentinel:
+    enabled: true
+
+server:
+  port: 8090
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"

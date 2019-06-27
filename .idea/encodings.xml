@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/spring-cloud-alibaba-common-base" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-alibaba-dependencies" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-alibaba-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-alibaba-nacos" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-alibaba-nacos-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-alibaba-nacos-provider/src/main/resources/application.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-alibaba-nacos/api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-alibaba-nacos/client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-alibaba-nacos/cmdb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-alibaba-nacos/common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-alibaba-nacos/config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-alibaba-nacos/console" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-alibaba-nacos/core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-alibaba-nacos/distribution" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-alibaba-nacos/example" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-alibaba-nacos/naming" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-alibaba-nacos/test" charset="UTF-8" />
+  </component>
+</project>
